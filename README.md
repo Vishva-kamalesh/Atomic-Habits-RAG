@@ -89,7 +89,6 @@ Type `exit` to quit the interactive session.
 
 ## Possible Improvements
 
-- Rename `fasiss.py` to `faiss.py` for clarity.
 - Add `requirements.txt` and virtual environment instructions.
 - Add source citations in final answers (chapter/page/chunk metadata).
 - Add evaluation script for retrieval quality.
